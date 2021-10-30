@@ -1,0 +1,25 @@
+{
+  "name": "10-oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ccruz13/10-OOP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ccruz13/10-OOP/issues"
+  },
+  "homepage": "https://github.com/Ccruz13/10-OOP#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
