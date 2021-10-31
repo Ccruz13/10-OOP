@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+.container-header {
+    padding: 25px;
+    text-align: center;
+    background-color: dodgerblue;
+    color: white;
+}
+
+.row {
+    justify-content: center;
+}
+
+.card {
+    padding: 10px;
+    margin: 20px;
+    font-size: 14px;
+}
+
+.card-header {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.team {
+    padding-left: 100px;
+    padding-right: 100px;
+}
